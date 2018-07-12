@@ -1,0 +1,6 @@
+train  = data/an_data/voc_train.txt
+valid  = data/an_data/d300_lamp50_3_20171017_jpg.txt
+names = data/an.names
+backup = backup
+
+
